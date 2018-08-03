@@ -1,0 +1,19 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+
+.nav-profile {
+  background-color: white; }
+
+.brand-logo {
+  width: 116px;
+  height: 73px;
+  bottom: 5px;
+  left: 15px; }
+
+nav ul a {
+  color: black !important; }
+
+.user-badge {
+  background-color: rgba(209, 207, 207, 0.192) !important; }
+
+/*# sourceMappingURL=style.css.map */
